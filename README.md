@@ -1,6 +1,6 @@
 # MediDas2.0 - AI-Powered Medical Assistant 🏥
 
-![MediDas2.0](assets/medidas_banner.png)
+![MediDas2.0](assets/logo.png)
 
 ## 🚀 Overview
 **MediDas2.0** is a multimodal AI-powered medical assistant designed to revolutionize diagnostics and consultations. By integrating state-of-the-art AI models, MediDas2.0 enables:
@@ -110,7 +110,7 @@ This project is licensed under the **MIT License**.
 
 ## 📩 Contact & Support
 For queries and collaborations:
-📧 Email: [contact@medidas2.ai](mailto:aicinema69@gmail.com)
+📧 Email: [Click Here](mailto:satyamsingh4000@hotmail.com)
 🌐 Website: N/A
 
 ![MediDas2.0](assets/medidas_ui_mockup.png)
