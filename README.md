@@ -113,4 +113,4 @@ For queries and collaborations:
 📧 Email: [Click Here](mailto:satyamsingh4000@hotmail.com)
 🌐 Website: N/A
 
-![MediDas2.0](assets/banner.png)
+![MediDas2.0](assets/banner.jpeg)
